@@ -8,8 +8,14 @@ Main Concept
 The Learner’s Compass is a personalized dashboard that tracks a learner’s skills, projects, certifications, and career goals in one place. It provides real-time skill analysis, highlights the gaps between current knowledge and target job requirements, and offers actionable suggestions like courses.
 It is designed to be interactive and dynamic. In the settings, Ananya can connect her GitHub, Coursera, LinkedIn, and Udemy accounts. Based on the data fetched from these sources, the dashboard will automatically update her skills, certifications, and projects. This digital footprint will help her visualize her current progress and align it with the roadmap of a Machine Learning Engineer or any other related career path.
 
+## Page 1
+![HI](Group%2023.png)
 
+## Page 2
+![HI](Group%2020.png)
 
+## Page 3
+![HI](image%2016.png)
 
 
 
